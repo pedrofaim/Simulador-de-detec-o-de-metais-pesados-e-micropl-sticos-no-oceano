@@ -33,6 +33,6 @@ Este projeto consiste em uma simulação para detecção de metais pesados e mic
 
 ## Equipe responsável
 
-1. Pedro henrique Faim dos Santos(RM557440).
-2. Gabriel Guerreiro Escobosa Vallejo(RM555973).
+ - Pedro henrique Faim dos Santos(RM557440).
+- Gabriel Guerreiro Escobosa Vallejo(RM555973).
 
