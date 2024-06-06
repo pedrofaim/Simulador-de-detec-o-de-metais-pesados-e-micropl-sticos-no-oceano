@@ -30,8 +30,4 @@ Este projeto consiste em uma simulação para detecção de metais pesados e mic
    - A quantidade de leituras que foram realizadas (50 como exemplo no código).
    - O número de vezes que os limites de cada material foram excedidos.
 
-## Estrutura do Repositório
 
-- `README.md`: Documentação do projeto.
-- `detector.py`: Script Python que realiza a simulação de detecção de metais pesados e microplásticos no oceano.
-- Outros arquivos, caso sejam necessários para o funcionamento do projeto.
